@@ -1,7 +1,6 @@
 # importar as bibliotecas
 import streamlit as st
 import pandas as pd
-!pip install yfinance
 import yfinance as yf
 from datetime import timedelta
 
